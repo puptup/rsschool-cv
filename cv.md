@@ -52,7 +52,7 @@ function arrayToTree(array) {
 + Self-learning from a [**JavaScript**](https://learn.javascript.ru/) book
 
 ##  Education:
-I studied at the Belarusian National Technical University at the Mechanical Engineering Faculty with a degree in integrated sensor systems. 
+I graduated at the Belarusian National Technical University at the Mechanical Engineering Faculty with a degree in integrated sensor systems. 
 
 ## Languages
 + English (A2+)

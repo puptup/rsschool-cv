@@ -1,7 +1,7 @@
 # Kashavar Kiryl
 
 ## Contacts:
- - ![e-mail](https://cdn-icons-png.flaticon.com/16/732/732200.png) : [putumoney@gmail.com](https://mail.google.com/mail/?view=cm&source=mailto&to=[putumoney@gmail.com])
+ - ![e-mail](https://cdn-icons-png.flaticon.com/16/732/732200.png) : [putumoney@gmail.com](https://mail.google.com/mail/?view=cm&source=mailto&to=putumoney@gmail.com)
  - ![phone](https://cdn-icons-png.flaticon.com/16/552/552489.png) : +375 29 743-36-22
  - ![telegram](https://cdn-icons-png.flaticon.com/16/5968/5968804.png) : [@putumoney](https://t.me/putumoney)
  - ![github](https://cdn-icons-png.flaticon.com/16/733/733553.png) : [@puptup](https://github.com/puptup)
